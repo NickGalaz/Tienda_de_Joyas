@@ -1,7 +1,7 @@
 # Desafío Opcional: Tienda de Joyas
 
 ### Módulo 8
-### Framework Express
+### Framework Expres
 
 ## Unidad: 3 - Desafío Opcional 1
 
